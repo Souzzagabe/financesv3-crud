@@ -21,7 +21,7 @@ export const Body = styled.div`
     margin-bottom: 50px;
     padding: 0 20px;
     height: 76vh;
-
+    background-color: red;
     @media (max-width: 768px) {
         max-width: 100%;
     }
